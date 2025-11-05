@@ -1,0 +1,29 @@
+ 
+ <Phone>
+ <Id>11 </Id>
+ <Name> Samsung </Name>
+ <Limit_Price>35000</Limit_Price>
+ <STock>50</STock>
+ <Status>1</Status>
+
+ </Phone>
+
+
+ <Phone>
+ <Id>20</Id>
+ <Name> HTC </Name>
+ <Limit_Price>63300</Limit_Price>
+ <STock>35</STock>  
+ <Status>0</Status>
+
+ </Phone>
+
+
+ <Phone>
+ <Id>20</Id>
+ <Name> Nokia </Name>
+ <Limit_Price>25100</Limit_Price>
+ <STock>100</STock>
+ <Status>1</Status> 
+
+ </Phone>
